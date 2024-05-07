@@ -1,7 +1,7 @@
-<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+### Ex-No--06-Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-### DEVELOPED BY : Javith farkhan S
-### REG NO : 212221240017
+### DEVELOPED BY : KERSOAN P
+### REG NO : 212221230050
 
 ## Aim :
 
